@@ -2,7 +2,7 @@
 ## Μεταπτυχιακός Φοιτητής Ντρίτσος Γεώργιος με ΑΜ:00078 - Ακαδημαϊκό Έτος 2020_2021
 ## Επιβλέπων Καθηγητής: [Γκόγκος Χρήστος](https://github.com/chgogos)
 ## Πίνακας Περιεχομένων
-* [Πληροφορίες Εφαρμογής](https://github.com/DrG2020/00078_aadd_ett/blob/main/README.md#%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%AF%CE%B5%CF%82-%CE%B5%CF%86%CE%B1%CF%81%CE%BC%CE%BF%CE%B3%CE%AE%CF%82)
+* [Πληροφορίες Εφαρμογής]https://github.com/BILLSOL/00083_aadd_ett/blob/main/README.md#%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%AF%CE%B5%CF%82-%CE%B5%CF%86%CE%B1%CF%81%CE%BC%CE%BF%CE%B3%CE%AE%CF%82()
 * Τεχνική Αναφορά
 * [Κώδικας](https://github.com/DrG2020/00078_aadd_ett/blob/main/README.md#%CE%BF-%CE%BA%CF%89%CE%B4%CE%B9%CE%BA%CE%B1%CF%83)
 * Εκκίνηση κώδικα
