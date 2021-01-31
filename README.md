@@ -5,8 +5,8 @@
 
 ## Πίνακας Περιεχομένων
 * [Πληροφορίες Εφαρμογής](https://github.com/BILLSOL/00083_aadd_ett/blob/main/README.md#%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%AF%CE%B5%CF%82-%CE%B5%CF%86%CE%B1%CF%81%CE%BC%CE%BF%CE%B3%CE%AE%CF%82)
-* [Τεχνική Αναφορά]()
-* [Δεδομένα Προβλήματος]()
+* [Τεχνική Αναφορά](https://github.com/BILLSOL/00083_aadd_ett/blob/main/README.md#%CF%84%CE%B5%CF%87%CE%BD%CE%B9%CE%BA%CE%AE-%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC)
+* [Δεδομένα Προβλήματος](https://github.com/BILLSOL/00083_aadd_ett/blob/main/README.md#%CE%B1%CF%81%CF%87%CE%B5%CE%AF%CE%BF-%CE%B4%CE%B5%CE%B4%CE%BF%CE%BC%CE%AD%CE%BD%CF%89%CE%BD)
 * [Κώδικας](https://github.com/BILLSOL/00083_aadd_ett/blob/main/README.md#%CE%BF-%CE%BA%CF%8E%CE%B4%CE%B9%CE%BA%CE%B1%CF%82)
 * [Εγκατάσταση εφαρμογής]()
 
@@ -21,6 +21,8 @@
 ## Αρχείο Δεδομένων
 * [Δείτε το αρχείο δεδομένων εδώ](https://github.com/BILLSOL/00083_aadd_ett/blob/main/Data.txt)
 
+## Εγκατάσταση Εφαρμογής
+Προκειμένου να εγκαταστήσετε την εφαρμογή θα πρέπει να κατεβάσετε το Main.c(κώδικας) και το data.txt(αρχείο δεδομένων) και να διαθέτετε στον υπολογιστή σας έναν compiler της c++ προκειμένου να εκτελέσετε την εφαρμογή
 
 ## Ο Κώδικας
 * [Κατέβασε τον κώδικα από εδώ](https://github.com/BILLSOL/00083_aadd_ett/blob/main/main.c)
