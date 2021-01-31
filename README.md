@@ -8,7 +8,7 @@
 * [Τεχνική Αναφορά](https://github.com/BILLSOL/00083_aadd_ett/blob/main/README.md#%CF%84%CE%B5%CF%87%CE%BD%CE%B9%CE%BA%CE%AE-%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC)
 * [Δεδομένα Προβλήματος](https://github.com/BILLSOL/00083_aadd_ett/blob/main/README.md#%CE%B1%CF%81%CF%87%CE%B5%CE%AF%CE%BF-%CE%B4%CE%B5%CE%B4%CE%BF%CE%BC%CE%AD%CE%BD%CF%89%CE%BD)
 * [Κώδικας](https://github.com/BILLSOL/00083_aadd_ett/blob/main/README.md#%CE%BF-%CE%BA%CF%8E%CE%B4%CE%B9%CE%BA%CE%B1%CF%82)
-* [Εγκατάσταση εφαρμογής]()
+* [Εγκατάσταση εφαρμογής](https://github.com/BILLSOL/00083_aadd_ett/blob/main/README.md#%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CE%B5%CF%86%CE%B1%CF%81%CE%BC%CE%BF%CE%B3%CE%AE%CF%82)
 
 ## Πληροφορίες Εφαρμογής
 Η αποδοτική δημιουργία προγραμμάτων εξετάσεων είναι ένα σημαντικό και επαναλαμβανόμενο πρόβλημα το οποίο καλούνται να αντιμετωπίσουν τα εκπαιδευτικά ιδρύματα σε όλο τον κόσμο. Μια απλοποιημένη μορφή του προβλήματος έχει προταθεί από τους Carter κ.ά. οι οποίοι διέθεσαν δημόσια 13 στιγμιότυπα προβλημάτων που εν συνεχεία χρησιμοποιήθηκαν σε πληθώρα επιστημονικών εργασιών χρονοπρογραμματισμού. Στα πλαίσια της παρούσας εργασίας ζητείται να κατασκευάσετε μια εφαρμογή που θα είναι σε θέση να παράγει λύσεις για τα προβλήματα αυτά.
