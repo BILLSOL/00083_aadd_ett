@@ -1,4 +1,4 @@
-# Foobar
+# Εργασία στο Μάθημα Αλγόριθμοι και Προχωρημένες Δομές Δεδομένων
 
 Foobar is a Python library for dealing with word pluralization.
 
