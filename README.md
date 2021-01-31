@@ -16,7 +16,7 @@
 ![GitHub Logo](https://github.com/BILLSOL/00083_aadd_ett/blob/main/tabu.png)
 
 ## Τεχνική Αναφορά
-* [Δείτε εδώ την τεχνική αναφορά]()
+* [Δείτε εδώ την τεχνική αναφορά](https://github.com/BILLSOL/00083_aadd_ett/blob/main/TEXNIKI_ANAFORA.pdf)
 
 ## Αρχείο Δεδομένων
 * [Δείτε το αρχείο δεδομένων εδώ](https://github.com/BILLSOL/00083_aadd_ett/blob/main/Data.txt)
